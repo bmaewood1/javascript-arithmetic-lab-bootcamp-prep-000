@@ -28,19 +28,19 @@ function inc(n) {
   return n += 1
 }
 
-inc(a)
+inc(n)
 
 function dec(n) {
   return a - 1
 }
 
-dec(a)
+dec(n)
 
 function makeInt(n) {
   return parseInt(n, 10)
 }
 
-makeInt(a)
+makeInt(n)
   
 
 function preserveDecimal(n) {
