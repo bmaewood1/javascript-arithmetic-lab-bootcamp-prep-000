@@ -13,7 +13,8 @@ describe('makeInt(n)', function() {
 })
 
 
-function makeInt
+function makeInt(n)
+
 
 
 
